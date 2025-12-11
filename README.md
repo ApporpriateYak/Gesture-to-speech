@@ -50,9 +50,8 @@ int sensorValue = analogRead(A0);
 │  └─ gesture_to_speech.ino
 ├─ audio/
 │  ├─ 001_hello.mp3
-│  └─ 002_help.mp3
-└─ docs/
-   └─ calibration.md
+   └─ 002_help.mp3
+
 </code></pre>
 
   <h2>Components (example)</h2>
